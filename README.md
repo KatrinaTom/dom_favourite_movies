@@ -9,9 +9,7 @@ The web application is a personal movie database where you can add your favourit
 ## Images 
 
 <img src="images/home1.png" width="200">
-
 <img src="images/modal.png" width="200">
-
 <img src="images/movie_modal.png" width="200">
 
 
