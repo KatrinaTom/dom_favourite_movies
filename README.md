@@ -4,13 +4,13 @@ This exercise is to practice Document Object Manipulation (DOM).
 
 The web application is a personal movie database where you can add your favourite movies. 
 
+Verbose code to practice working with the DOM.
+
 ---
 
 ## Images 
 
-<img src="images/home1.png" width="200">
-<img src="images/modal.png" width="200">
-<img src="images/movie_modal.png" width="200">
+<img src="images/home1.png" width="200"><img src="images/modal.png" width="200"><img src="images/movie_modal.png" width="200">
 
 
 
